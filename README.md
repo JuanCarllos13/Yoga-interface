@@ -1,7 +1,7 @@
 # Yoga
 
 
-<img src="../project-2-figma/assets/login.png" alt="Tela de Login">
+<img src="./assets/login.png" alt="Tela de Login">
 
 > Tela de login
 
